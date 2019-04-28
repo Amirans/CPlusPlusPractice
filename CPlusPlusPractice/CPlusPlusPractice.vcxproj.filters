@@ -24,6 +24,9 @@
     <ClInclude Include="src\twoSum.h">
       <Filter>Source Files</Filter>
     </ClInclude>
+    <ClInclude Include="src\binaryRep.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="pch.cpp">
